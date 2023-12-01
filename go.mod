@@ -1,4 +1,4 @@
-module gorm-casbin
+module github.com/dobyte/gorm-casbin
 
 go 1.20
 
