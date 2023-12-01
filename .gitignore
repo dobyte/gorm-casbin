@@ -1,0 +1,10 @@
+# OS general
+*/.DS_Store
+
+# Develop tools
+.vscode
+.idea/
+
+# Go workspace
+go.work
+go.work.sum
